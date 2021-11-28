@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",RECORD
+http://playpluspoa-lh.akamaihd.net:80/i/pp_poa@377864/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",PLUTO NATUREZA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT CIDADE VERDE
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT CAURAU
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT RECIFE
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT SERRA DOURADO
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",TESTE DRIVE 
+https://www.googleapis.com/drive/v3/files/1gfnOeK8kkjQl7TeRy17I2V2bXZ7sSXpG?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",MARSHA E URSO
+https://www.googleapis.com/drive/v3/files/1gi6-7jLm_NC24AvCMRDm0pLxxRK64hfP?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",MATINHOS
+https://www.googleapis.com/drive/v3/files/1hNG3X7lkt4aYg_R_wAxTRjxEaLUcn3EU?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",FILHA NA COMPRA
+https://proxy-16.nyc.dailymotion.com/sec(f2DpPaaM8u15Kq2lKySPGBjd7rshAht2ByTuC4ws8wyCAdo26YaJf-R4bbDxf-Hr7eXDXX0rb6H9IuWmmfgZFpltz9ltqosnyE86ZtZY08c)/video/817/306/493603718_mp4_h264_aac_hd.m3u8#cell=nyc
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",EXPEDIÇÃO 
+https://www.googleapis.com/drive/v3/files/1hwvHxCRbyk1EgRvEFjMfBuslbs061y3j?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",CAÇÃO QUEKO
+https://proxy-032.ix7.dailymotion.com/sec(QRmsThsc0NdxOo1LPpbD14mUXZ2pCNdQS6hC5XQJrExW3rOHGpqVEX1-Ilrr0yTEIpAJx5aBeWOGeZySJV6qR8203G5D9j40Dhvw5_RmsY8)/video/112/116/493611211_mp4_h264_aac_fhd.m3u8#cell=core
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",Bahama Selvagem - Pântanos
+https://proxy-011.dc3.dailymotion.com/sec(0V41b9CBRT3XfaWDMnvxGe2D4hAdWV_weZRu5WssIoTpFwgMM4MQzgBL8HidMuWXlNte2srN1LK1KNRBkBfYycMx6A-iVH5YAhl8ViOQROc)/video/228/499/377994822_mp4_h264_aac_hd_2.m3u8#cell=core
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",DISCOVERY
+http://vipeiptv.com:25461/tamires123/tamires321/856038
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",LULA GIGANTE
+https://proxy-014.ix7.dailymotion.com/sec(4pkX4jyJ09RyW9jaEyekksjvvHafn6rXVgFIrSK1WKOGCd1RLG_V5CmMNhmCZkTUHMAU5ChEgnKlNGY5yadwbN3r5TFzm0FmRZ7YjnviW8M)/video/795/215/387512597_mp4_h264_aac_hd.m3u8#cell=core
